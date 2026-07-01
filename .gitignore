@@ -1,0 +1,20 @@
+# STM32CubeIDE build folders
+**/Debug/
+**/Release/
+
+# Build outputs
+*.elf
+*.bin
+*.hex
+*.map
+*.list
+
+# IDE launch files
+*.launch
+
+# Temporary files
+*.tmp
+*.bak
+
+# Windows files
+Thumbs.db
